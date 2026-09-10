@@ -1,5 +1,7 @@
 # Viva Idiomas
 
+> See [portfolio quality notes](docs/portfolio-quality.md) for the business goal, demonstrative targets and accessibility checklist.
+
 Modern language school website with course presentation, lead capture, and responsive content sections.
 
 ## Overview
